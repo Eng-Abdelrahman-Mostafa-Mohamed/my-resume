@@ -12,7 +12,7 @@ Cairo University Giza, Egypt Artfcial Intelligence Department, Bachelor of Compu
 
 Science Land - Artfcial Intelligence Intern, Cairo, Egypt || Machine Learning Interne at Coding Raja 
 
-Technologies || Huawei ICT -ML and DL intern 
+Technologies || [Huawei ICT -ML and DL intern](https://drive.google.com/file/d/1ftUCmWacoeTDKtW_5-7ibP_qgziZz0Lc/view?usp=sharing) 
 
  AI Member at IEEECUSB 
 
