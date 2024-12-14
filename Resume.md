@@ -94,7 +94,7 @@ AE - VAE -Gans
 
 • [Car price predicton](https://github.com/Eng-Abdelrahman-Mostafa-Mohamed/car_price/blob/main/cars-purchase-decision-dataset%20(2).ipynb) 
 
-Generatve AI before Gans and Transformers overview 
+[Generatve AI before Gans and Transformers overview](https://www.linkedin.com/posts/abdelrahman-mostafa-mohamed_generation-before-gans-and-transformers-activity-7158615549160177664-bMxO?utm_source=share&utm_medium=member_desktop) 
 
 ## Certfcates
 
