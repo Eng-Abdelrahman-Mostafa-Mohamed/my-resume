@@ -4,7 +4,7 @@ AI Engineer
 
 abdelrahmanmostafamohamedfouad@gmail.com | +201152296870 | El haram, Giza, Egypt
 
-portolio | Linked-in | Kaggle | GitHub 
+portolio | [Linked-in](https://www.linkedin.com/in/abdelrahman-mostafa-mohamed/) | [Kaggle](https://www.kaggle.com/abdelrahmanm2003) | [GitHub](https://github.com/Eng-Abdelrahman-Mostafa-Mohamed) 
 
 Cairo University Giza, Egypt Artfcial Intelligence Department, Bachelor of Computer Science October 2020 – July 2024 
 
