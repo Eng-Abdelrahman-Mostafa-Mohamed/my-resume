@@ -96,7 +96,7 @@ AE - VAE -Gans
 
 [Generatve AI before Gans and Transformers overview](https://www.linkedin.com/posts/abdelrahman-mostafa-mohamed_generation-before-gans-and-transformers-activity-7158615549160177664-bMxO?utm_source=share&utm_medium=member_desktop) 
 
-## Certfcates
+## certificates
 
 [Advanced Learning Algorithms - Coursera](https://www.coursera.org/account/accomplishments/certificate/D2L3YFXRRKRK) 
 
